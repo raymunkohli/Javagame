@@ -1,0 +1,5 @@
+1 1 0 4 14
+class game.MediumAsteroid 9.769578 10.904156 1.6336122 -1.7222233 
+class game.SmallAsteroid -4.889371 7.5307007 0.34226942 0.08604622 
+class game.SmallAsteroid 10.638966 -11.539676 -1.0495782 2.3403478 
+class game.Ship 0.33237022 -6.1668983 0.0 0.0 
